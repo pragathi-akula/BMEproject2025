@@ -1,0 +1,46 @@
+version: 1
+project:
+  title: "Analyzing the Effects of Psychological Stress on Heart Rate Variability in High School Students"
+  description: This study aims to evaluate the effects of short-term psychological stress, specifically academic stress, on heart rate variability using the RMSSD parameter
+  keywords:
+    - Heart Rate Variability
+    - Autonomic Nervous System
+    - RMSSD
+  subject: Biomedical Engineering
+  authors:
+    - name: Pragathi Akula
+      corresponding: true
+      orcid: 0009-0004-3391-9096
+      affiliation: ncssm
+      email: akula26p@ncssm.edu
+      roles:
+        - Conceptualization
+        - Data Curation
+        - Methodology
+        - Visualization
+    - name: Amy Cho
+      affiliation: ncssm
+      email: cho25a@ncssm.edu
+      roles:
+        - Formal Analysis
+        - Resources
+        - Validation
+        - Writing - review and editing
+        - Supervision
+    - name: Bindi Parikh
+      affiliation: ncssm
+      email: parikh25b@ncssm.edu
+      roles:
+        - Funding Acquisition
+        - Investigation
+        - Project Administration
+        - Software
+        - Writing - original draft
+  abbreviations:
+    RMSSD: Root mean square of successive differences
+    HRV: Heart rate variability
+
+site: 
+  template: article-theme
+    
+

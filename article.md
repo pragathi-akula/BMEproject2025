@@ -2,6 +2,9 @@
 title: Analyzing the Effects of Psychological Stress on Heart Rate Variability in High School Students
 abstract: |
   This study aimed to evaluate the effects of short-term psychological stress on heart rate variability (HRV) using the root mean square of successive differences (RMSSD) parameter. A small-scale experiment was conducted with five Biomedical Engineering students (3 males, 2 females) as participants. Psychological stress was induced through a Stroop Word Color Conflict Test and a timed math test, administered in a competitive setting with an incentive for perfect accuracy. Baseline HRV measurements were recorded during a no-stress period, followed by measurements taken after the stressor. The results showed a general reduction in RMSSD values post-stress, consistent with higher stress levels. However, statistical analysis indicated no significant difference in RMSSD values before and after the stressor. These findings highlight a potential trend linking induced stress with autonomic changes but depict the need for further research with larger sample sizes to draw definitive conclusions.
+
+availability: |
+  The data that support the findings of this study are openly available in `BMEproject2025` at (https://github.com/pragathi-akula/BMEproject2025).
 ---
 
 ## Introduction
